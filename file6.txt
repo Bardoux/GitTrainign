@@ -1,0 +1,9 @@
+total 16K
+drwxr-xr-x 1 abardoux    0 21 oct.  11:52 .git
+-rw-r--r-- 1 abardoux 1,6K 21 oct.  10:31 file1.txt
+-rw-r--r-- 1 abardoux 1,5K 21 oct.  10:31 file2.txt
+-rw-r--r-- 1 abardoux   13 21 oct.  10:31 file3.txt
+-rw-r--r-- 1 abardoux   33 21 oct.  10:31 file4.txt
+-rw-r--r-- 1 abardoux   61 21 oct.  11:52 file5.txt
+-rw-r--r-- 1 abardoux    0 21 oct.  11:56 file6.txt
+-rw-r--r-- 1 abardoux   40 21 oct.  10:31 readme.txt

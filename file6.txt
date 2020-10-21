@@ -13,4 +13,4 @@ drwxr-xr-x 1 abardoux    0 21 oct.  11:52 .git
 -rw-r--r-- 1 abardoux    0 21 oct.  11:56 file6.txt
 -rw-r--r-- 1 abardoux   40 21 oct.  10:31 readme.txt
 
-Toto s'ennuie
+sympa

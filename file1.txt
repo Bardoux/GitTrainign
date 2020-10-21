@@ -27,3 +27,5 @@
  Toto rentre chez lui
 
  Toto part en vacances
+
+ Toto prend sa retraite
